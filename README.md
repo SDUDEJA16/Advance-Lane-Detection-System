@@ -25,7 +25,7 @@ can run in a prescribed area and avoid accidents.
 ![camera](camera_callibration.png)
 
 ![camera](Screenshot%20(1290).png)
-#### Finding Points on image
+Finding Points on image
 
 * `Perspective transform`: Since camera is recording from front, the lanes appear to
 converge at far distance due to which curvature recognition becomes difficult. This happened because when an image is converted into 2d, the distance is demonstrated based on shape of object, i.e. more far an image, less is its size. Therefore there is needed to look it from some different perspective where they still appear parallel. The
