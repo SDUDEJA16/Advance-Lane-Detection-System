@@ -24,7 +24,7 @@ can run in a prescribed area and avoid accidents.
 
 ![camera](camera_callibration.png)
 
-![camera](Distortion removal.png)
+![camera](Distortion_removal.png)
 Finding Points on image
 
 * `Perspective transform`: Since camera is recording from front, the lanes appear to
